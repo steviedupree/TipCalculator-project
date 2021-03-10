@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">TipCalculator-DuPree</string>
     <string name="how_was_your_service_today">How was your service today?</string>
-=    <string name="do_you_want_to_round_up_your_tip">Do you want to round up your tip?</string>
+    <string name="do_you_want_to_round_up_your_tip">Do you want to round up your tip?</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="amazing_25">Amazing (25%)</string>
     <string name="good_20">Good (20%)</string>
